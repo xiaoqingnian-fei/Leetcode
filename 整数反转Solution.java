@@ -19,8 +19,8 @@ public class Main {
 
 	public static void main(String[] args) {
         Solution x=new Solution();
-		int a=in.nextInt();
-		System.out.println(x.reverse(a));
-		System.out.println(Integer.MAX_VALUE/10);
+	int a=in.nextInt();
+	System.out.println(x.reverse(a));
+	System.out.println(Integer.MAX_VALUE/10);
 	}
 }
